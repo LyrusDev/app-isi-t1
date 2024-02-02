@@ -1,0 +1,7 @@
+# Archivos de tipo
+Thumbs.db
+
+# Documentos
+secrets.js
+credenciales_correo.py
+__pycache__
