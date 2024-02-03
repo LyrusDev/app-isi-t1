@@ -1,5 +1,5 @@
 # Archivos de tipo
-Thumbs.db
+*.db
 
 # Documentos
 secrets.js
